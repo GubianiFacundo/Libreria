@@ -1,0 +1,66 @@
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\TP3.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\TP3.csproj.GenerateResource.Cache
+C:\Users\Adriana\Desktop\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\Adriana\Desktop\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\TP3.exe
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\TP3.pdb
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarUsuario.resources
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FLibro.resources
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FPrestamo.resources
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FUsuario.resources
+C:\Users\Adriana\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarLibro.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\TP3.exe
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\TP3.pdb
+C:\Users\SAMSUNG\Downloads\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\SAMSUNG\Downloads\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\TP3.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarLibro.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarUsuario.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FLibro.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FPrestamo.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FUsuario.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Downloads\TP3\TP3\obj\x86\Debug\TP3.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\TP3.exe
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\TP3.pdb
+C:\Users\SAMSUNG\Desktop\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\SAMSUNG\Desktop\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\TP3.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarLibro.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarUsuario.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FLibro.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FPrestamo.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.FUsuario.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\TP3\TP3\obj\x86\Debug\TP3.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.exe
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.pdb
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\bin\Debug\TP3.exe
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\bin\Debug\TP3.pdb
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarLibro.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarUsuario.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FLibro.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FPrestamo.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FUsuario.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.csproj.GenerateResource.Cache
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.exe
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.pdb
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\bin\Debug\TP3.exe
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\bin\Debug\TP3.pdb
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarLibro.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FEditarUsuario.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FLibro.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FPrestamo.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FUsuario.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\TP3.csproj.GenerateResource.Cache
+C:\Users\Facu\Desktop\TP3 - 10-12\TP3\obj\x86\Debug\WindowsFormsApplication1.FAyuda.resources
